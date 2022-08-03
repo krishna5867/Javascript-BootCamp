@@ -1,11 +1,11 @@
-# Javascript-BootCamp
+# Full Stack Javascript-BootCamp
 
 
-# **Interior Design landing page| Project_10**
+# **Street Style Landing Page| Project_10**
 
-Hello, I'm **Vikash Yadav** 
+Hello, I'm **Krishna Kumar** 
 
-This project is a part of the **Full Stack Javascript** course by ineuron.ai. It is given by our instructor and mentor, **Hitesh** sir,  as an assignment.
+This project is a part of the **Full Stack Javascript-Bootcamp** course by ineuron.ai. It is given by our instructor and mentor, **Hitesh Choudhary** sir,  as an assignment.
 
 
 ### **What I have learned ?**
@@ -23,7 +23,7 @@ It took me 8 hours to complete this project. (most of the time consumed to know 
 
 
 
-[![Project ScreenShot](./css%20project-10%20completed.png)](https://interior-design-landing-page-project-10.netlify.app/ "Project link")
+[![Project ScreenShot](C:\Users\krish\Desktop\Sandbox\live-class-project-01)](https://interior-design-landing-page-project-10.netlify.app/ "Project link")
 
 
 [![Badge](https://img.shields.io/badge/Project__10-Interior%20Design%20landing%20page-yellow)](https://interior-design-landing-page-project-10.netlify.app/ "Project link")
