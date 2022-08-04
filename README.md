@@ -12,7 +12,7 @@ Hello ! I'm **KRISHNA KUMAR**
    * 2Hr
 
 
-[Deployed Link](https://app.netlify.com/sites/street-style-landing-page-project01/overview)
+[Deployed Link](https://street-style-landing-page-project01.netlify.app/)
 
 ![](https://github.com/krishna5867/Street-Style-Landing-Page/blob/main/Screenshot.png)
               
